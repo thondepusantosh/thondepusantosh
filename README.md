@@ -10,7 +10,6 @@
 [![Email](https://img.shields.io/badge/CONTACT-%23e8e8e8?style=flat-square&logo=gmail&logoColor=0a0a0a)](mailto:santoshsrimanvik@gmail.com)
 
 ```bash
-$ whoami
 > Santosh Sri Manvik | 18 | Vijayawada, India
 > CS @ AI & ML | Builder | High-agency thinker
 ```
@@ -26,14 +25,10 @@ I believe in **high-agency thinking** — taking full ownership of outcomes. Dee
 
 ---
 
-
----
-
 ## `Achievements:`
 
 ```
-> loading achievements...
-[ work in progress ]
+Yet to achieve (work in progress)
 ```
 
 ---
@@ -47,13 +42,6 @@ I believe in **high-agency thinking** — taking full ownership of outcomes. Dee
 
 ## `Philosophy:`
 
-> *Take ownership of your outcomes. High agency is the only mode.*
+> *I believe in high-agency thinking — taking ownership of outcomes. Influenced by thinkers like Naval Ravikanth.*
 
 ---
-
-
-<div align="center">
-
-
-
-</div>
