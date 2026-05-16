@@ -27,9 +27,9 @@ I believe in **high-agency thinking** — taking full ownership of outcomes. Dee
 
 ## `Achievements:`
 
-```
-Yet to achieve (work in progress)
-```
+
+*Yet to achieve (work in progress)*
+
 
 ---
 
