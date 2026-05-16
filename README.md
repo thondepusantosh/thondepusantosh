@@ -3,7 +3,7 @@
 
 # Hey, I'm Santosh Sri Manvik &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 
-**`// CS Student · AI/ML · Full Stack · Quant Finance`**
+**` CS Student · AI/ML · Full Stack · Quant Finance`**
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%23e8e8e8?style=flat-square&logo=linkedin&logoColor=0a0a0a)](https://www.linkedin.com/in/santosh-sri-manvik/)
 [![GitHub](https://img.shields.io/badge/GITHUB-%23e8e8e8?style=flat-square&logo=github&logoColor=0a0a0a)](https://github.com/thondepusantosh)
@@ -42,6 +42,6 @@ Yet to achieve (work in progress)
 
 ## `Philosophy:`
 
-> *I believe in high-agency thinking — taking ownership of outcomes. Influenced by thinkers like Naval Ravikanth.*
+*I believe in high-agency thinking — taking ownership of outcomes. Influenced by thinkers like Naval Ravikanth.*
 
 ---
