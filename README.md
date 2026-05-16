@@ -33,13 +33,6 @@ Yet to achieve (work in progress)
 
 ---
 
-## `Influences:`
-
-**Naval Ravikant** — wealth creation, decision-making, and the art of clear thinking.  
-**David Goggins** — toughness, overcoming limits, and building an unbreakable mindset.
-
----
-
 ## `Philosophy:`
 
 *I believe in high-agency thinking — taking ownership of outcomes. Influenced by thinkers like Naval Ravikanth.*
