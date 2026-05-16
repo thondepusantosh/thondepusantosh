@@ -33,8 +33,8 @@ Yet to achieve (work in progress)
 
 ---
 
-## `Philosophy:`
+## `My Philosophy:`
 
-*I believe in high-agency thinking — taking ownership of outcomes. Influenced by thinkers like Naval Ravikanth.*
+*Be OBSESSED.*
 
 ---
